@@ -17,7 +17,7 @@ class Home extends StatefulWidget {
 }
 
 class _HomeState extends State<Home> {
-
+  
   int _contador = 0;
   String _info = "Pode Entrar";
 
